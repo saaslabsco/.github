@@ -1,4 +1,4 @@
-![SaaS Labs](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/bc432139-fad5-4107-93c8-2cb4fc672bc5.png) 
+![SaaS Labs](https://github.com/saaslabsco/.github/assets/83000807/75a007a9-ed7e-4f25-a4d9-5c3a09c25097) 
 
 ## The SaaS company that breaks boundaries
 
